@@ -34,16 +34,16 @@ We praten over:
 - Clean code, TDD & architectuur
 - Groeien als developer (ook als het moeilijk is)
 - Soft skills in tech
-- ☁Cloud, AI en dev tools
+- Cloud, AI en dev tools
 - En af en toe... een hot take
 
 ---
 
 ## De JCast Crew
 
-- **[Oumaima]([https://www.linkedin.com/in/oumaima-zerouali/](https://github.com/OumaimaZerouali))**: een developer die houdt van duidelijkheid, uitdaging en het ‘waarom’ achter systemen en mensen. Backend, frontend of cloud, ze wil het kennen, kunnen en beter maken.
-- **[Viktor]([https://viktorvervoort.dev](https://github.com/ViktorVS1))**: een software engineer die leeft voor clean code en automatisatie. Dol op AI-tools, nerdy discussies en altijd nieuwsgierig naar nieuwe shortcuts.
-- **[Maarten]([https://casteels.dev](https://github.com/denmette))**: een pragmatische tech-lead met een scherp oog voor detail en een zwak voor goed teamwerk. Houdt van clean code, duidelijke communicatie en een beetje chaos op z’n tijd.
+- **[Oumaima](https://github.com/OumaimaZerouali)** : een developer die houdt van duidelijkheid, uitdaging en het ‘waarom’ achter systemen en mensen. Backend, frontend of cloud, ze wil het kennen, kunnen en beter maken.
+- **[Viktor](https://github.com/ViktorVS1)** : een software engineer die leeft voor clean code en automatisatie. Dol op AI-tools, nerdy discussies en altijd nieuwsgierig naar nieuwe shortcuts.
+- **[Maarten](https://github.com/denmette)** : een pragmatische tech-lead met een scherp oog voor detail en een zwak voor goed teamwerk. Houdt van clean code, duidelijke communicatie en een beetje chaos op z’n tijd.
 
 ---
 
