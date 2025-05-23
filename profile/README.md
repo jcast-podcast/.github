@@ -1,6 +1,6 @@
 # JCast — Developers met een mening
 
-Welkom bij **JCast**, de podcast over IT, development life, soft skills, en gezonde meningsverschillen.  
+Welkom bij **JCast**, de podcast over IT, development life, soft skills, en gezonde meningsverschillen.
 Drie developers: Oumaima, Viktor en Maarten, praten over code, cultuur en alles daartussenin.
 
 Nieuwe afleveringen. Eerlijke gesprekken. Geen buzzwords zonder context.
@@ -11,7 +11,6 @@ Nieuwe afleveringen. Eerlijke gesprekken. Geen buzzwords zonder context.
 
 | 📌 | Titel | Info |
 |----|-------|------|
-| 🎧 | **[Sessions](https://github.com/jcast-podcast/sessions)** | Planning, vragenlijsten & notities per aflevering |
 | 🌐 | **[jcast.dev](https://github.com/jcast-podcast/jcast.dev)** | De statische website van JCast – gebouwd met Hugo & AWS |
 
 ---
@@ -20,9 +19,9 @@ Nieuwe afleveringen. Eerlijke gesprekken. Geen buzzwords zonder context.
 
 JCast is te vinden op:
 
-[![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/...)  
-[![Apple Podcasts](https://img.shields.io/badge/-Apple%20Podcasts-000000?style=for-the-badge&logo=apple&logoColor=white)](https://podcasts.apple.com/...)  
-[![Deezer](https://img.shields.io/badge/-Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white)](https://www.deezer.com/...)  
+[![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/...)
+[![Apple Podcasts](https://img.shields.io/badge/-Apple%20Podcasts-000000?style=for-the-badge&logo=apple&logoColor=white)](https://podcasts.apple.com/...)
+[![Deezer](https://img.shields.io/badge/-Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white)](https://www.deezer.com/...)
 _(...en meer via [jcast.dev](https://jcast.dev))_
 
 ---
@@ -49,7 +48,7 @@ We praten over:
 
 ## Samenwerken?
 
-We nemen ook afleveringen op met gasten!  
+We nemen ook afleveringen op met gasten!
 Wil je eens meepraten, of ken je iemand met een goed verhaal? → [Open een issue](https://github.com/jcast-podcast/sessions/issues) of contacteer [Oumaima](https://github.com/OumaimaZerouali).
 
 ---
