@@ -41,16 +41,16 @@ We praten over:
 
 ## De JCast Crew
 
-- **[Oumaima](https://github.com/OumaimaZerouali)** : een developer die houdt van duidelijkheid, uitdaging en het ‘waarom’ achter systemen en mensen. Backend, frontend of cloud, ze wil het kennen, kunnen en beter maken.
-- **[Viktor](https://github.com/ViktorVS1)** : een software engineer die leeft voor clean code en automatisatie. Dol op AI-tools, nerdy discussies en altijd nieuwsgierig naar nieuwe shortcuts.
-- **[Maarten](https://github.com/denmette)** : een pragmatische tech-lead met een scherp oog voor detail en een zwak voor goed teamwerk. Houdt van clean code, duidelijke communicatie en een beetje chaos op z’n tijd.
+- **[Oumaima](https://github.com/OumaimaZerouali)**: een developer die houdt van duidelijkheid, uitdaging en het ‘waarom’ achter systemen en mensen. Backend, frontend of cloud, ze wil het kennen, kunnen en beter maken.
+- **[Viktor](https://github.com/ViktorVS1)**: een software engineer die leeft voor clean code en automatisatie. Dol op AI-tools, nerdy discussies en altijd nieuwsgierig naar nieuwe shortcuts.
+- **[Maarten](https://github.com/denmette)**: een pragmatische tech-lead met een scherp oog voor detail en een zwak voor goed teamwerk. Houdt van clean code, duidelijke communicatie en een beetje chaos op z’n tijd.
 
 ---
 
 ## Samenwerken?
 
 We nemen ook afleveringen op met gasten!  
-Wil je eens meepraten, of ken je iemand met een goed verhaal? → [Open een issue](https://github.com/jcast-podcast/sessions/issues) of contacteer Oumaima.
+Wil je eens meepraten, of ken je iemand met een goed verhaal? → [Open een issue](https://github.com/jcast-podcast/sessions/issues) of contacteer [Oumaima](https://github.com/OumaimaZerouali).
 
 ---
 
